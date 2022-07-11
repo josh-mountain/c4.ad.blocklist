@@ -1,0 +1,4 @@
+cdn.http.anno.channel4.com
+webstats.channel4.com
+monitor.channel4.com
+cdn.ss.anno.channel4.com
